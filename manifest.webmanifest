@@ -2,7 +2,7 @@
   "name": "Pwa Application",
   "short_name": "Pwa",
   "id": "./",
-  "start_url": "../Pwa/",
+  "start_url": "https://picknick68.github.io/Pwa/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
