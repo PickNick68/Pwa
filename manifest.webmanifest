@@ -1,6 +1,6 @@
 {
-  "name": "Pwa Application",
-  "short_name": "Pwa",
+  "name": "Blazor.PwaTemplate.Client",
+  "short_name": "Blazor.PwaTemplate.Client",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
