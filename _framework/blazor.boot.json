@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Blazor.PwaTemplate.Client",
   "resources": {
-    "hash": "sha256-7bW3IkMlv2FDFQ6JLdJeTfCorG0uDmM/WVPx1yulSfM=",
+    "hash": "sha256-ELtuPK02olWAQvYn5U7cKwY0F9wDI5wmBcQ69ZoXUT0=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.poda774rez.js": "sha256-YKD3m890KYkjEdR5X9UZDkG4n+kUOjUTIy8VVerGD9M="
     },
@@ -18,16 +18,16 @@
     },
     "assembly": {
       "Blazor.Attributes.Shared.wasm": "sha256-UXWbMtyxg/TuKpChqdk5cT9VPmC1cypmWouxDXB0iAg=",
-      "Blazor.Cms.Mobile.Infrastructure.wasm": "sha256-gCwdpcOEnjmHG7/niwqb3up1ZrTAAqe7Dy7PC7CGm4g=",
+      "Blazor.Cms.Mobile.Infrastructure.wasm": "sha256-v/6dULPnmjUJM5TQrLk7TBmlXKnmmCnpwIki/BIlBgQ=",
       "Blazor.Cms.Mobile.Shared.wasm": "sha256-nQKisS1yhfu77uE12+0ooyKkoUEH5FnpvozfyEzBItg=",
-      "Blazor.Infrastructure.Client.wasm": "sha256-Ml4wm3PjUMYp/Ee/Jcs7e1X5nQ9oHqhQTzMzmO8TTwY=",
+      "Blazor.Infrastructure.Client.wasm": "sha256-4gktjb+6X9pYEZjBnRTevrCHECg52RxJTZUfEX+tW/M=",
       "Blazor.MediatR.Shared.wasm": "sha256-qgYaVj0+6AY/JvlqN8jAbSHx8HitHpVleRzgKuZQ00I=",
       "Blazor.Navigation.Client.wasm": "sha256-EvGizTfsjxTC2VCvuBfz0oWPir4mcN4uwLkNqS6aXGA=",
       "Blazor.NetworkState.Client.wasm": "sha256-i1xXDCvC+9rEePQNmbTQeU2Pg14vaYOo9e5jFKpfLvM=",
-      "Blazor.PwaTemplate.Client.wasm": "sha256-djLYSKabj2rqoMDH1EfgZMoEVw0EvyYcFB4vPCPwBJQ=",
-      "Blazor.Wizard.Client.wasm": "sha256-UX+MSmZMkFqjTTl+IB1TEJL55nw/lhlsL2/5LNW9o38=",
-      "Blazor.WizardComponent.Client.wasm": "sha256-VWhAnK4U+x+D8uAz33qrxGqBspay0TNUbC6W3hlPOso=",
-      "Blazor.WizardComponent.Shared.wasm": "sha256-2wYrOvIn2wv6R4GjhB5ds1s5yfhzhRvdgKSIjmXryXk=",
+      "Blazor.PwaTemplate.Client.wasm": "sha256-eNBl67U5l0SGkZ4CGxGeLu/nY2sPaG+mhMcOpcmNXlI=",
+      "Blazor.Wizard.Client.wasm": "sha256-7HH/K+YZrSvN9EpgT676bjH2ju8yvLI6i5u6hANQ8C8=",
+      "Blazor.WizardComponent.Client.wasm": "sha256-+NdQeogau1i+gfZW915UvWRGYPJGm+aRGG2x7yc99f8=",
+      "Blazor.WizardComponent.Shared.wasm": "sha256-tRMgeWg2nlodDTXKGav5Tl0s4okx/ohyMk/2vsHMQlE=",
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "MediatR.Contracts.wasm": "sha256-/db+nahzjeSd5EhxUqFrpFzJ998Up6Vgs1PHrV3jqkU=",
       "MediatR.wasm": "sha256-l/eqjhSQY9za5jvF4fnQHZKwXY2P68EAcOrqt9an6VU=",
