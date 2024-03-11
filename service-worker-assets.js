@@ -9,6 +9,10 @@
       "url": "404.html"
     },
     {
+      "hash": "sha256-9JPdCYsG5uzDpgMhztEEsX8CKcYejOaEbnBcCt5iGHI=",
+      "url": "cartellinoimages\/foto.jpg"
+    },
+    {
       "hash": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=",
       "url": "css\/app.css"
     },
@@ -31,10 +35,6 @@
     {
       "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
       "url": "icon-512.png"
-    },
-    {
-      "hash": "sha256-9JPdCYsG5uzDpgMhztEEsX8CKcYejOaEbnBcCt5iGHI=",
-      "url": "Images\/foto.jpg"
     },
     {
       "hash": "sha256-75XVLTkhHud7zXNuTlu3jB8VpCfsKA7G8n+2rHW1Cao=",
@@ -85,7 +85,7 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-7S7EZSr7SyIxvcqOqQwAS3HxQM\/EKnwc0VS3AqD7G\/0=",
+      "hash": "sha256-Hlv3ZJWJoom950O\/Y122iLiaOYOpq3rkWawSVUqDAXA=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -133,7 +133,7 @@
       "url": "_framework\/Blazor.Wizard.Client.wasm.br"
     },
     {
-      "hash": "sha256-I59C7q6VK2GaaX35pKM9lE37ifUkwm1PQR1H\/1ICXvA=",
+      "hash": "sha256-ywTJYoCW3tvyEkz55UIQXrK+Ak6+aQ7bBrG3h5DQgTE=",
       "url": "_framework\/Blazor.WizardComponent.Client.wasm.br"
     },
     {
@@ -457,5 +457,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "QoZrUKrc"
+  "version": "2gdWG60h"
 };
