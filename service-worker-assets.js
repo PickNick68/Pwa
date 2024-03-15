@@ -37,7 +37,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-75XVLTkhHud7zXNuTlu3jB8VpCfsKA7G8n+2rHW1Cao=",
+      "hash": "sha256-F1lbh+pd6s4PZqXNhNTj4GW+rjEfkt5NOMJgQuGk0zM=",
       "url": "index.html"
     },
     {
@@ -57,7 +57,7 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-4+UfTggQIDODsXcIUH84L4kOCRV5ud+88DfTTOYboR8=",
+      "hash": "sha256-lNOwEM8Ohjmo18SZHGlOOjue0Mbm9MAAFuKRJcEQw\/8=",
       "url": "Blazor.PwaTemplate.Client.styles.css"
     },
     {
@@ -85,7 +85,7 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-eal0pUO1a+wcvg3EyLaPxyEEgmIC51h8w11sb9BDuzM=",
+      "hash": "sha256-y+AVGmZ0\/XqlXnswBdMmBT2qijbToCkjH4TSCj\/rdbg=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -101,7 +101,7 @@
       "url": "_framework\/Blazor.Attributes.Shared.wasm.br"
     },
     {
-      "hash": "sha256-tjeRblFJvg5VVMELAix352LO8PuNwUMW5HopGMdbn4w=",
+      "hash": "sha256-NIekc1hSos8zkg13+XhPJ1Hmo\/80XF+ms\/Qhi0gDlSM=",
       "url": "_framework\/Blazor.Cms.Mobile.Infrastructure.wasm.br"
     },
     {
@@ -109,7 +109,7 @@
       "url": "_framework\/Blazor.Cms.Mobile.Shared.wasm.br"
     },
     {
-      "hash": "sha256-9tgl9mn848FVdpEdXpxrR06oq1mmSeZjkhNeMRTlGWk=",
+      "hash": "sha256-NtYlZFqxu8bLqKzmP5Vo5yIgQoyVfoJO1Fydd848pVo=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -125,8 +125,12 @@
       "url": "_framework\/Blazor.NetworkState.Client.wasm.br"
     },
     {
-      "hash": "sha256-D85+A4RRvU8nAbNJ31zBLQxXUQZCIliUBNCYxR3pCaE=",
+      "hash": "sha256-GPBm8XpxrC5WLRW5sz6zLFyJS1UqYvb2LVOVDppmHZM=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
+    },
+    {
+      "hash": "sha256-DbsYPVPN4cXvmEdKeSxR1gUpySYIlNRCIZbBSuFh+f0=",
+      "url": "_framework\/Blazor.Scanner.Client.wasm.br"
     },
     {
       "hash": "sha256-TIodqtVouCNXU9v\/u45A\/iYDf9TK0DMOaWNF53jnkBo=",
@@ -137,11 +141,11 @@
       "url": "_framework\/Blazor.Wizard.Client.wasm.br"
     },
     {
-      "hash": "sha256-Vr\/64WcrJysD\/V81BkBs91Qwq+XoJcTGCokw17mkv7s=",
+      "hash": "sha256-JYRvM+BHNk7DZoMUn8CB5Np2uyc0opiFetZUwWW+j6Y=",
       "url": "_framework\/Blazor.WizardComponent.Client.wasm.br"
     },
     {
-      "hash": "sha256-3JX02wii2kxQwLR0zxFzMRaAkz4G5a64PZLSRclTGZQ=",
+      "hash": "sha256-o8e09iyPXX0EhJJM8FCcXJr95CwFT8s37DTRmV7rIxY=",
       "url": "_framework\/Blazor.WizardComponent.Shared.wasm.br"
     },
     {
@@ -253,7 +257,7 @@
       "url": "_framework\/MudBlazor.ThemeManager.wasm.br"
     },
     {
-      "hash": "sha256-F6CWKxCX+Oa1aE\/N5ijlM4ZS3AD16T5piIDgUqcVbIg=",
+      "hash": "sha256-cC6deBMEj41hCTsqUueSyiqsPpMeT\/L1lGqFxV0ll8s=",
       "url": "_framework\/MudBlazor.wasm.br"
     },
     {
@@ -385,7 +389,7 @@
       "url": "_framework\/System.Web.HttpUtility.wasm.br"
     },
     {
-      "hash": "sha256-uksMUkFU8p6XJS70xkLNgnUqxFb8ZRDAEStBJ4ZSwak=",
+      "hash": "sha256-03Jnfgva87AgUQX4p5LC3hxD32YdVcoYSPdLG\/u2USU=",
       "url": "appsettings.json"
     },
     {
@@ -430,6 +434,14 @@
     },
     {
       "hash": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4\/sNPbaRUspOLefkCY=",
+      "url": "_content\/Blazor.Scanner.Client\/background.png"
+    },
+    {
+      "hash": "sha256-FrrTtczTUEHjkhc\/zWRPC7CmxeXI0JCZGc1+76qQ8B4=",
+      "url": "_content\/Blazor.Scanner.Client\/exampleJsInterop.js"
+    },
+    {
+      "hash": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4\/sNPbaRUspOLefkCY=",
       "url": "_content\/Blazor.SimpleDialog.Client\/background.png"
     },
     {
@@ -453,6 +465,10 @@
       "url": "_content\/Blazor.Infrastructure.Client\/background.png"
     },
     {
+      "hash": "sha256-+aLj5Mp\/vuuMjV1b49QFRioKbs5vcJJTHFLx4IBOnRU=",
+      "url": "_content\/Blazor.Scanner.Client\/Blazor.Scanner.Client.bundle.scp.css"
+    },
+    {
       "hash": "sha256-3wST52SrXKvt7eIbEa\/ruFjh4Z4giaKT1X9Q5dOW9C8=",
       "url": "_content\/Blazor.Infrastructure.Client\/Blazor.Infrastructure.Client.bundle.scp.css"
     },
@@ -465,5 +481,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "tzivuhAM"
+  "version": "Y5tzuGJq"
 };
