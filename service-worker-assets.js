@@ -85,7 +85,7 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-3fIHCuwxb+leUyy1JzilwV7leRqeu2esyyxDfmo3dbQ=",
+      "hash": "sha256-uQJAzzAVjNPSE6Eod4sxyJNURVwhh+aZ9vewP85RAOk=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -101,7 +101,7 @@
       "url": "_framework\/Blazor.Attributes.Shared.wasm.br"
     },
     {
-      "hash": "sha256-jT4OUjUSy6ZyKnzx9m4qymFUv1L7qdCAP3VTGUn\/f30=",
+      "hash": "sha256-m9ZExkMVDbb5+kCidGNM6IqXgAgdqA7fnCh9h5fJowY=",
       "url": "_framework\/Blazor.Cms.Mobile.Infrastructure.wasm.br"
     },
     {
@@ -109,7 +109,7 @@
       "url": "_framework\/Blazor.Cms.Mobile.Shared.wasm.br"
     },
     {
-      "hash": "sha256-rqJUSQW0Y9sYPHAbH2ZXzsP00nWNJYTIF+TPOvIQHXw=",
+      "hash": "sha256-nsQGUYGos\/9Uuv11o3P3PpG63NhgsuvO+lKgnaUD5lY=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -125,11 +125,11 @@
       "url": "_framework\/Blazor.NetworkState.Client.wasm.br"
     },
     {
-      "hash": "sha256-MM0p4T9tgmGOygNPaEwB8SyhGUXgTwS+E8r6eLQgocA=",
+      "hash": "sha256-qkKp3u8ofQBWC6kPvCfNnToHdrMZBc2a7HZYoJXJrhg=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
-      "hash": "sha256-eH\/E3i2513MbArraTYdZXE1vNn9jXMhHAKcK1xNc7Ig=",
+      "hash": "sha256-VGHDZQivbZF\/a6v6fUXc8mkOpEZEvM6Kr6lf8S1alCY=",
       "url": "_framework\/Blazor.Scanner.Client.wasm.br"
     },
     {
@@ -141,7 +141,7 @@
       "url": "_framework\/Blazor.Wizard.Client.wasm.br"
     },
     {
-      "hash": "sha256-Lha254d6Er7l\/3l9E4QoyFr0acRMDV+ay5mqqf1K55Q=",
+      "hash": "sha256-UUQ90KdCBY2YiE1yKeZ4B03iYG3FgdNnZFBi13+Wv0Y=",
       "url": "_framework\/Blazor.WizardComponent.Client.wasm.br"
     },
     {
@@ -381,6 +381,10 @@
       "url": "_framework\/System.Text.RegularExpressions.wasm.br"
     },
     {
+      "hash": "sha256-HXGAlqUL5gl3v9CA+3uX\/bqQvXbJAEZXPgYtvYH3aXo=",
+      "url": "_framework\/System.Threading.Thread.wasm.br"
+    },
+    {
       "hash": "sha256-sTl+Z5J4c3JSdftloXOnmA557hNN9mgyGKTTwbXG8HQ=",
       "url": "_framework\/System.Threading.wasm.br"
     },
@@ -493,5 +497,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "VTmO+hDc"
+  "version": "T93u7qyV"
 };
