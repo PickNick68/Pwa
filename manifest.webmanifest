@@ -1,6 +1,6 @@
 {
-  "name": "Blazor.PwaTemplate.Client",
-  "short_name": "Blazor.PwaTemplate.Client",
+  "name": "TO Barcode Reader",
+  "short_name": "Blazor TO Barcode Reader",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
