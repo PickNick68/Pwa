@@ -65,7 +65,7 @@
       "url": "images\/logo.jpg"
     },
     {
-      "hash": "sha256-DDutlUrxekTfMzJO1wJ6eq2US8G+3uKTwA\/zwZGMCmI=",
+      "hash": "sha256-U+5Ui+N2yyQnTHsCQenO3+sWySEQ70omqLIkB585YWI=",
       "url": "index.html"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "hash": "sha256-ojjIRUfDibuWTisGt5WW6QCkcJakm3I2Txx8Ii5qPdQ=",
-      "url": "sw-registrator.js"
+      "url": "sw-registrator1.js"
     },
     {
       "hash": "sha256-oy\/NfBiZAVmXPrpJK2xG2aB7BINrlSvNsMBMnZqaIb0=",
@@ -561,5 +561,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "jd93wehu"
+  "version": "SkcGv45O"
 };
