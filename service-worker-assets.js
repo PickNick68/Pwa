@@ -65,7 +65,7 @@
       "url": "images\/logo.jpg"
     },
     {
-      "hash": "sha256-1DvlCg8Q2w0Z1MB0VeDprgxzBspxRv\/P2hS32Sgtz+s=",
+      "hash": "sha256-DDutlUrxekTfMzJO1wJ6eq2US8G+3uKTwA\/zwZGMCmI=",
       "url": "index.html"
     },
     {
@@ -85,7 +85,7 @@
       "url": "networkimages\/internet-on.png"
     },
     {
-      "hash": "sha256-Kj9IdDDwj1D9XgcDpU9XaXxs42QiLO3afe36JipoXfQ=",
+      "hash": "sha256-ojjIRUfDibuWTisGt5WW6QCkcJakm3I2Txx8Ii5qPdQ=",
       "url": "sw-registrator.js"
     },
     {
@@ -437,7 +437,7 @@
       "url": "_framework\/System.Web.HttpUtility.wasm.br"
     },
     {
-      "hash": "sha256-kTEYeC9DzaJs8HH91kSJM0rBWCGOWPTHHX7b1WFwNzI=",
+      "hash": "sha256-fCVFP6uR4fc++2n5a5I9GLrP5zqTwEBKYyKfiUFmL8s=",
       "url": "appsettings.json"
     },
     {
@@ -561,5 +561,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "VHvnI0yc"
+  "version": "jd93wehu"
 };
