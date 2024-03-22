@@ -12,6 +12,19 @@ export function isDevice() {
     return /android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini|mobile/i.test(navigator.userAgent);
 }
 
+export async function forceDeleteCache() {
+
+    var cacheNamePrefix = 'offline-cache-';
+    var cacheKeys = await caches.keys();
+    await Promise.all(cacheKeys
+        .filter(key => key.startsWith(cacheNamePrefix))
+        .map(key => caches.delete(key)));
+}
+
+export function forceReload() {
+    window.location.reload();
+}
+
 export function initializeConnectivity(interop) {
 
     notify = function () {

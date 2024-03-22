@@ -9,6 +9,10 @@
       "url": "404.html"
     },
     {
+      "hash": "sha256-vCJVDsCs+CzTeMlsaXrFYC8m83tKSGwW\/TuC1HDLQYc=",
+      "url": "cache-helper.js"
+    },
+    {
       "hash": "sha256-8VaYad2BRq6EDShDAodAe+PtWVRvRVz2LBgvxjPVZ8M=",
       "url": "cartellinoimages\/cardella.jpg"
     },
@@ -65,7 +69,7 @@
       "url": "images\/logo.jpg"
     },
     {
-      "hash": "sha256-U+5Ui+N2yyQnTHsCQenO3+sWySEQ70omqLIkB585YWI=",
+      "hash": "sha256-F1lbh+pd6s4PZqXNhNTj4GW+rjEfkt5NOMJgQuGk0zM=",
       "url": "index.html"
     },
     {
@@ -117,7 +121,7 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-u+Ken47yKtNXvj4PFlkaUa\/0MXCFivXGGZb2e4bz8tY=",
+      "hash": "sha256-8b4lObCYGSABHjamIHPJUQkDhQ1d34ZDHj7ULvdo6E4=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -141,7 +145,7 @@
       "url": "_framework\/Blazor.Cms.Mobile.Shared.wasm.br"
     },
     {
-      "hash": "sha256-SIn8djhsfl1gX78HzTKF5m7rwvSK82ZFhsNGwfzxTe4=",
+      "hash": "sha256-1dzCCA7qS7emji9ozwShvfX3Xf+mQic8tfiZYMz56Is=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -153,11 +157,11 @@
       "url": "_framework\/Blazor.Navigation.Client.wasm.br"
     },
     {
-      "hash": "sha256-rGyClxbEGDnBK2E+GmHGzgAaL16BouauTx2TPU5qpl4=",
+      "hash": "sha256-nuyvllUiyVT8pg97BZE1Mmol\/nuQE2pXxQdpfI2dnw4=",
       "url": "_framework\/Blazor.NetworkState.Client.wasm.br"
     },
     {
-      "hash": "sha256-+NR9iCZf5lv9xtPneOkxSPR\/Msj28lC1hkbNnDBvbf4=",
+      "hash": "sha256-ryrPpuh\/Z3EHSAihhUYHX+5CE8C3ZGRTn3fPrGE862I=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -437,7 +441,7 @@
       "url": "_framework\/System.Web.HttpUtility.wasm.br"
     },
     {
-      "hash": "sha256-fCVFP6uR4fc++2n5a5I9GLrP5zqTwEBKYyKfiUFmL8s=",
+      "hash": "sha256-TcWa4kfu2Yj+YQ+iqzlxE8yahRRzYJulz7v\/YTDDnso=",
       "url": "appsettings.json"
     },
     {
@@ -485,7 +489,7 @@
       "url": "_content\/Blazor.NetworkState.Client\/background.png"
     },
     {
-      "hash": "sha256-z+jwrAo8dQgj\/HxuFrfCGJ7tm3woNplUnLWVMBZjyZA=",
+      "hash": "sha256-hJMlZJEO+txOYaf2AMgVx8RlIwzQJ7q8nASDP1evg3Y=",
       "url": "_content\/Blazor.NetworkState.Client\/connectivity.js"
     },
     {
@@ -561,5 +565,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "SkcGv45O"
+  "version": "2mfmeP6h"
 };
