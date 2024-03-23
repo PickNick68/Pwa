@@ -569,5 +569,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "tfnJ\/4W8"
+  "version": "tfnJ\/4W9"
 };
