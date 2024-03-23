@@ -569,5 +569,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "HUWfyX49"
+  "version": "HUWfyX69"
 };
