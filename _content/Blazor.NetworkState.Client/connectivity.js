@@ -21,8 +21,8 @@ export async function forceDeleteCache() {
         .map(key => caches.delete(key)));
 }
 
-export function forceReload() {
-    window.location.reload();
+export async function forceReload() {
+    await window.location.reload();
 }
 
 export function initializeConnectivity(interop) {
