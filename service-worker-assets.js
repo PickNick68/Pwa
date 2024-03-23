@@ -569,5 +569,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "mLU\/5QGG"
+  "version": "mLU\/5QGM"
 };
