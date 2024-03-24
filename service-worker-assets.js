@@ -73,7 +73,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-gMacCR6\/BID6qq8TRf7ukHpPuYZEubgdQwxPjqug8WM=",
+      "hash": "sha256-1a0gk4lVlDIWpVVI0KaBeGaC5bq\/IjA7TrCZCVX8usY=",
       "url": "info.json"
     },
     {
@@ -97,7 +97,7 @@
       "url": "sw-registrator1.js"
     },
     {
-      "hash": "sha256-oy\/NfBiZAVmXPrpJK2xG2aB7BINrlSvNsMBMnZqaIb0=",
+      "hash": "sha256-+nI7ZNNnlXxoUMD2ze2MK4wPUyrTGLUgzcHVtaWEabw=",
       "url": "Blazor.PwaTemplate.Client.styles.css"
     },
     {
@@ -125,7 +125,7 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-QOXQDaNSBGEyayleMDMc1QYohsIH63LEygUqq+VJYLU=",
+      "hash": "sha256-+w3jxc07bmXqqb2AhdOcZK\/L9D02NjBh21BukgFH+bI=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -133,7 +133,7 @@
       "url": "_framework\/dotnet.native.8.0.3.poda774rez.js"
     },
     {
-      "hash": "sha256-Naos7biLyljMxFxb4QbJSLtmR92OUpOvD9sSuepruKE=",
+      "hash": "sha256-yyvZPawgviGf9QTuIb24AsotS7niYoGVImjOAyMtuPg=",
       "url": "_framework\/dotnet.native.wasm.br"
     },
     {
@@ -149,7 +149,7 @@
       "url": "_framework\/Blazor.Cms.Mobile.Shared.wasm.br"
     },
     {
-      "hash": "sha256-KyMbTn2WD4ahCDrGn1mx+jIO5iGBhOCm6pZ8MzWqya4=",
+      "hash": "sha256-33W2orVSyj0j47ZMwV2m5wyF1jeLBjDVTpAHUrDzfj0=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -165,7 +165,7 @@
       "url": "_framework\/Blazor.NetworkState.Client.wasm.br"
     },
     {
-      "hash": "sha256-PYX08tzXwukOxokmI809Rr\/AU\/FpW2vmqU+yxmWypCI=",
+      "hash": "sha256-qgEBgmQ2mdT7ZRMLxw2I78hoZvL\/oRtQs9B5N917l3U=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -177,11 +177,11 @@
       "url": "_framework\/Blazor.SimpleDialog.Client.wasm.br"
     },
     {
-      "hash": "sha256-Dm94SxfNnQclgcpj3bN+ocLPb2YxbXknr2M0YYzkvEM=",
+      "hash": "sha256-w9S5DKj+kxhV+A+AIVYwU1B1cuEKSd7rnCAGE48GYyY=",
       "url": "_framework\/Blazor.Upload.Client.wasm.br"
     },
     {
-      "hash": "sha256-X\/6QP7asrOK4EgKx0aZdEeZXUPwUDV89TgA0FffMC0Y=",
+      "hash": "sha256-0+B66sVEzDkDx4W7ThQIqsBQupsTKTr+kGvWEzB01pg=",
       "url": "_framework\/Blazor.Upload.Pwa.Shared.wasm.br"
     },
     {
@@ -309,7 +309,7 @@
       "url": "_framework\/MudBlazor.ThemeManager.wasm.br"
     },
     {
-      "hash": "sha256-LogiNDjo\/jzI0Y7PqvazdDsFMamkq7W1gzjlD5U02GA=",
+      "hash": "sha256-4k5kas7K1OWVXIOi+OHP1D4SsZJP5vNOA1X\/9UPRvVk=",
       "url": "_framework\/MudBlazor.wasm.br"
     },
     {
@@ -377,7 +377,7 @@
       "url": "_framework\/System.Linq.Expressions.wasm.br"
     },
     {
-      "hash": "sha256-oshz+BQpBMgHHS48Kyp2PPGbNl5bj933e7ySuDDh5OQ=",
+      "hash": "sha256-AydiV8dx4P0eQLJXlXZ23\/kgNjv8\/IIc7lNoJNOzV2Y=",
       "url": "_framework\/System.Linq.wasm.br"
     },
     {
@@ -401,7 +401,7 @@
       "url": "_framework\/System.ObjectModel.wasm.br"
     },
     {
-      "hash": "sha256-apFHaw+cgTY5SxpRQ1Ij91Vu6\/wpuQc4cA\/GWFln6ek=",
+      "hash": "sha256-uK\/SFLZAQuzI5sszGh\/SA5T2xTJWRnr55e6AX1\/w3CU=",
       "url": "_framework\/System.Private.CoreLib.wasm.br"
     },
     {
@@ -482,14 +482,6 @@
     },
     {
       "hash": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4\/sNPbaRUspOLefkCY=",
-      "url": "_content\/Blazor.Upload.Pwa.Shared\/background.png"
-    },
-    {
-      "hash": "sha256-FrrTtczTUEHjkhc\/zWRPC7CmxeXI0JCZGc1+76qQ8B4=",
-      "url": "_content\/Blazor.Upload.Pwa.Shared\/exampleJsInterop.js"
-    },
-    {
-      "hash": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4\/sNPbaRUspOLefkCY=",
       "url": "_content\/Blazor.NetworkState.Client\/background.png"
     },
     {
@@ -545,10 +537,6 @@
       "url": "_content\/Blazor.Infrastructure.Client\/background.png"
     },
     {
-      "hash": "sha256-mK2F63Fb6XTTMxJXEJQPlWP40FRE\/exxRbYaWxW7Km4=",
-      "url": "_content\/Blazor.Upload.Pwa.Shared\/Blazor.Upload.Pwa.Shared.bundle.scp.css"
-    },
-    {
       "hash": "sha256-+aLj5Mp\/vuuMjV1b49QFRioKbs5vcJJTHFLx4IBOnRU=",
       "url": "_content\/Blazor.Scanner.Client\/Blazor.Scanner.Client.bundle.scp.css"
     },
@@ -569,5 +557,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "960q76Fh"
+  "version": "oWg8V+Ds"
 };
