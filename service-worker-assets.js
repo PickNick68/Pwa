@@ -69,7 +69,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-l2\/qGc0Juh7BZtFtIkVbgUd0eZ4lbKSZGzTvns\/G\/aA=",
+      "hash": "sha256-rlLYyx17YPE1uz48oveA14JWAdLsVSMpWC1G7TMrhDo=",
       "url": "info.json"
     },
     {
@@ -121,7 +121,7 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-2BXAWaLbdxOsUZlDDKD9+FtEfncktRhMUV4y3dNIQYM=",
+      "hash": "sha256-8dMe2Oct6KglfIKSuoW31ysqw0QK7cYMEurTi0bqRDY=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -141,7 +141,7 @@
       "url": "_framework\/Blazor.Attributes.Shared.wasm.br"
     },
     {
-      "hash": "sha256-3JK7IvUeZEjvChc31SkSf\/4bKpXSwIMqzxznIh495Nw=",
+      "hash": "sha256-Q3QYIkJFrMOiHjzpl2c99iNG4kkp5yy9zdMYZ1z\/w+I=",
       "url": "_framework\/Blazor.Cms.Mobile.Infrastructure.wasm.br"
     },
     {
@@ -153,7 +153,7 @@
       "url": "_framework\/Blazor.DisplaySpinner.Client.wasm.br"
     },
     {
-      "hash": "sha256-8+\/fINI6WJ4CaNNgl5aht1aYvGLr\/ShXcsvNCAwtm8o=",
+      "hash": "sha256-OjkF+LKSCw2KZ98qG3t9vEYpWkYZPM00R5+7Efxs3Ks=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -169,7 +169,7 @@
       "url": "_framework\/Blazor.NetworkState.Client.wasm.br"
     },
     {
-      "hash": "sha256-3e2Q6za0BlAdbnUmHdZXgX1iOM0xuo5C\/ljcV0KvFIc=",
+      "hash": "sha256-WeOFikxEptbNQCQJBMsrtsubpk8J1R9hzqBVr\/OPMLU=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -193,11 +193,11 @@
       "url": "_framework\/Blazor.Wizard.Client.wasm.br"
     },
     {
-      "hash": "sha256-wFBDfn\/UJ7B1oTWd9h9vujeVhzra8CzsPTkAb5cgIbs=",
+      "hash": "sha256-Yw7\/\/XGkPDg75WqXjHtjKVnaJ\/7IJqxD1kG7CsnuTHc=",
       "url": "_framework\/Blazor.WizardComponent.Client.wasm.br"
     },
     {
-      "hash": "sha256-Pc0zxQJUBMlq\/PJn7Ln+N3rzlqNwEUQAQTvC2TuQ01M=",
+      "hash": "sha256-LfK192+qThJA949xBu6O7gHz+l08AwPCYKXwdhMmRy0=",
       "url": "_framework\/Blazor.WizardComponent.Shared.wasm.br"
     },
     {
@@ -457,7 +457,7 @@
       "url": "_framework\/System.Web.HttpUtility.wasm.br"
     },
     {
-      "hash": "sha256-5AnZqTeKO6W1QlnqTAI9Qtxwyxf\/\/GJC32i3We2pa8o=",
+      "hash": "sha256-mO9Ow6NQLhTqDxEw6Tlw0c5WqzO0QVk5FYpisrv5dmo=",
       "url": "appsettings.json"
     },
     {
@@ -573,5 +573,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "hfBmVEQG"
+  "version": "F+PS8yL2"
 };
