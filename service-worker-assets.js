@@ -45,6 +45,10 @@
       "url": "cartellinoimages\/PCA.jpg"
     },
     {
+      "hash": "sha256-kwb4x3RNGnYK21yuZZku0MARf5XcEhy6uzWu+N7otF0=",
+      "url": "cartellinoimages\/Storaenso.jpg"
+    },
+    {
       "hash": "sha256-dBl4Lnii\/uYCuNLu+14VUnRV\/b3TK6nemlLiN5bk+3w=",
       "url": "cartellinoimages\/Toscopaper.jpg"
     },
@@ -137,7 +141,7 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-v+jpFNrdpgUT4XQ4n4KcHZivfaQCyfuqZCUqaFDNFNU=",
+      "hash": "sha256-0GTptd\/dKDAXczjs0dZYp7eQ2dZ5UnUQ\/gQO\/liNyow=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -209,7 +213,7 @@
       "url": "_framework\/Blazor.Wizard.Client.wasm.br"
     },
     {
-      "hash": "sha256-pwJx8w4DdRZe3dHxZVKNJ7iOUpVLTrDaFFzjqYtF564=",
+      "hash": "sha256-AOnobdL4dTJoOTICLNwjMIT65U786Dwi2ldde\/FMHeQ=",
       "url": "_framework\/Blazor.WizardComponent.Client.wasm.br"
     },
     {
@@ -473,7 +477,7 @@
       "url": "_framework\/System.Web.HttpUtility.wasm.br"
     },
     {
-      "hash": "sha256-6a6M\/OEzAWYynyOzCamcADwq\/+fNgrgGNX48HcaxLpQ=",
+      "hash": "sha256-EyeIlzx0oYrPeeVkzeR\/qIzx3M++QMZDkvATSm6tAhg=",
       "url": "appsettings.json"
     },
     {
@@ -589,5 +593,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "rS1GQQ4l"
+  "version": "aLWFtHz\/"
 };
