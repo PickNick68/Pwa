@@ -41,6 +41,10 @@
       "url": "cartellinoimages\/MondialCarta.jpg"
     },
     {
+      "hash": "sha256-V5MN99fMPeW4HpWAbaDkpJt3gaxvqcOlEWUK0UieT9Q=",
+      "url": "cartellinoimages\/ND.jpg"
+    },
+    {
       "hash": "sha256-OoN4StW+rFD\/4y0iLrttNovdjF3Afh9wVw5PDCB6pWE=",
       "url": "cartellinoimages\/PCA.jpg"
     },
@@ -89,7 +93,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-M2sMePn1j38L1GS1Mpt7Tz57ty4oOujUkc0HzhmM1AU=",
+      "hash": "sha256-iDCU3E73gQfAdrFKqZRvdbP947wvldaaNE5GPoJYi9g=",
       "url": "info.json"
     },
     {
@@ -141,7 +145,7 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-79HoepMgfWjqe9z0H8ZRGVkA0ja7snn3e7FB95QPb+E=",
+      "hash": "sha256-mfCL7A\/vKIClYpph+gXDAVqXsoetEPN9n0p7Hskh1HY=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -173,7 +177,7 @@
       "url": "_framework\/Blazor.DisplaySpinner.Client.wasm.br"
     },
     {
-      "hash": "sha256-AjcQbFaWBvQgjwhn4EYQITfxF1FDhH2cOShbu8BuHKg=",
+      "hash": "sha256-MSCuztWEbItoYO2KXs+Or5Z9igacrp3mkCDk8YXYWPU=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -525,7 +529,7 @@
       "url": "_framework\/System.Web.HttpUtility.wasm.br"
     },
     {
-      "hash": "sha256-DSl\/ydijKboA+NH346ZoYqH+\/JYSO8txQ8fYBQNNSOg=",
+      "hash": "sha256-vWzaHT9h\/owJw4\/D3933CW1U+6fUpyhvVhxmY+RFzyg=",
       "url": "appsettings.json"
     },
     {
@@ -641,5 +645,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "2VHrW6a0"
+  "version": "Q6qlh19P"
 };
