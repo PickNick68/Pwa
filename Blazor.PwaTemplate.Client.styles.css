@@ -1,3 +1,5 @@
+@import '_content/Blazor.AutomaticLogout.Client/Blazor.AutomaticLogout.Client.bundle.scp.css';
+@import '_content/Blazor.KeyboardInput.Client/Blazor.KeyboardInput.Client.bundle.scp.css';
 @import '_content/Blazor.PlayAudio.Client/Blazor.PlayAudio.Client.bundle.scp.css';
 @import '_content/Blazor.Scanner.Client/Blazor.Scanner.Client.bundle.scp.css';
 @import '_content/Blazor.Upload.Client/Blazor.Upload.Client.bundle.scp.css';
