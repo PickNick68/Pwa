@@ -97,7 +97,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-DBdRM\/N7Nmv3WPhZkRx25+KpkN+cnyoJUKLj7JWRofQ=",
+      "hash": "sha256-o193sYJEnKD6M1aRIPOA7eAbFVbOXgXfwZZMpHyXJIw=",
       "url": "info.json"
     },
     {
@@ -157,7 +157,7 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-gCpIChvkye+a\/gCIiGble8BYiRjE+nhVnwYoJBb93BA=",
+      "hash": "sha256-eTPi4F2OJwglpRv8lQyDQZlaXSu6+nSTazixvkDnZnQ=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -173,11 +173,11 @@
       "url": "_framework\/Aws.Sqs.Shared.wasm.br"
     },
     {
-      "hash": "sha256-3rMfqfAlZC8NFY+s0I49VGEYEnEmSQgNQPVxcsmbq5g=",
+      "hash": "sha256-n7TNP1pv7q0AvHBRvvz42TwDR4HVFJz9dgoTG8mQQp4=",
       "url": "_framework\/Blazor.Account.Sqs.Client.wasm.br"
     },
     {
-      "hash": "sha256-w6x5kJ7g4TUqmKASUECBliNOt5dMaebERTkinIhtmfc=",
+      "hash": "sha256-lCAdcQ7SfjlJpBFgLrvI1xNCpvTtJSqoRFrs+9WFEHA=",
       "url": "_framework\/Blazor.Account.Sqs.Shared.wasm.br"
     },
     {
@@ -209,7 +209,7 @@
       "url": "_framework\/Blazor.EventAggregator.Shared.wasm.br"
     },
     {
-      "hash": "sha256-G4mc5eahnr\/Md0BuuzUQP8uQi8nTHHhgD9QlMz+4L1Y=",
+      "hash": "sha256-xvZH4lgsiAWHx\/04DbpSmkgmOkK1GXDWCNXKd6mF4io=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -229,7 +229,7 @@
       "url": "_framework\/Blazor.NetworkState.Client.wasm.br"
     },
     {
-      "hash": "sha256-tZweWLa49Jipyd4SV4zWaLZdWQc+Gru0C+6rYYBzpzU=",
+      "hash": "sha256-QMLOOSisZ4GWT1PbKOcq5vSSpM+pdRx0NYiZfgDIfag=",
       "url": "_framework\/Blazor.OracleUserManager.Shared.wasm.br"
     },
     {
@@ -809,5 +809,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "QxoGR2Oj"
+  "version": "rA9qaq02"
 };
