@@ -5,13 +5,13 @@ export function showPrompt(message) {
     return prompt(message, 'Type anything here');
 }
 
-export function playSound() {
-    document.getElementById("myAudio").loop = false;
-    document.getElementById("myAudio").play();
-    console.info("myAudio");
+export function playSound(id) {
+    document.getElementById(id).loop = false;
+    document.getElementById(id).play();
+    console.info(id);
 }
 
-export function stopSound() {
-    document.getElementById("myAudio").pause();
-    document.getElementById("myAudio").currentTime = 0;
+export function stopSound(id) {
+    document.getElementById(id).pause();
+    document.getElementById(id).currentTime = 0;
 }
