@@ -749,7 +749,7 @@
       "url": "appsettings - Copia.json"
     },
     {
-      "hash": "sha256-+QQmms1ClcyvY7FvXfKSf9+XsQL6t2h0ZIqmR5Q9bmA=",
+      "hash": "sha256-vWtNyUanPW1wqR04wdv+iiJKSSLspdXXFL2WUe0en0I=",
       "url": "appsettings.json"
     },
     {
@@ -787,6 +787,10 @@
     {
       "hash": "sha256-kwb4x3RNGnYK21yuZZku0MARf5XcEhy6uzWu+N7otF0=",
       "url": "cartellinoimages\/Storaenso.jpg"
+    },
+    {
+      "hash": "sha256-WqrKTCK3F2qsJTaIBm4fe6VnN4E0Bkx2Zc+rwy+bda8=",
+      "url": "cartellinoimages\/Storaenso_V1.jpg"
     },
     {
       "hash": "sha256-xsIDSnzoehrRFYAwXbsegKAk1HuqrGy3D9CLJyOcOHk=",
@@ -845,7 +849,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-20cBpGjUEebtg4hhIXdqGksDp0ASbg4PxjAj8q560lI=",
+      "hash": "sha256-3LE83XYH3KBbz89quiiT4jCqUt9skymjFAtJzCMUTxU=",
       "url": "info.json"
     },
     {
@@ -889,5 +893,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "LY68fssc"
+  "version": "8TF03jGb"
 };
