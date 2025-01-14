@@ -6,8 +6,12 @@ export function showPrompt(message) {
 }
 
 export function playSound(id) {
-    document.getElementById(id).loop = false;
-    document.getElementById(id).play();
+    if (document.getElementById(id)) {
+        document.getElementById(id).loop = false;
+        document.getElementById(id).play();
+    }
+    
+       
     console.info(id);
 }
 
