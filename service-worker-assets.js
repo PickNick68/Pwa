@@ -197,7 +197,7 @@
       "url": "_framework\/Blazor.Cms.Mobile.Shared.wasm.br"
     },
     {
-      "hash": "sha256-1ZQQActxe1qeUgT5UQ+sRKEwlyj9kpC+KtnMtpN2RmU=",
+      "hash": "sha256-eiYmXANjNb8hUPwMJXz96dh\/i9zbohp+yc0XNVUhZnk=",
       "url": "_framework\/Blazor.Components.Client.wasm.br"
     },
     {
@@ -209,11 +209,11 @@
       "url": "_framework\/Blazor.EventAggregator.Shared.wasm.br"
     },
     {
-      "hash": "sha256-7LJGAMv5gpgYERiaVpzqzecGy5AhkF0kgkamIztjIc8=",
+      "hash": "sha256-0c\/qs3O8CSS+POBCP73XIFu8CQ9UeKY3hav80+KQRsI=",
       "url": "_framework\/Blazor.Hubconnection.Shared.wasm.br"
     },
     {
-      "hash": "sha256-c71ISldpO0f97I6KpIxJil0uDjs6KPvy0Hh7xn2mKCs=",
+      "hash": "sha256-IRuFjs7o5W4o04xl2EFbSrNTZ7kUb1QdwEbAdGSk6+E=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -229,7 +229,7 @@
       "url": "_framework\/Blazor.MediatR.Shared.wasm.br"
     },
     {
-      "hash": "sha256-8oXOWp0gOSdSLbMYyaCvXHQ58YNz87ioFrJWuvTyOis=",
+      "hash": "sha256-OuW\/fCVBk30uiAv8jVT0IitSC9jxNq2I3XrdmhT3ODw=",
       "url": "_framework\/Blazor.MessageService.Client.wasm.br"
     },
     {
@@ -249,7 +249,7 @@
       "url": "_framework\/Blazor.PlayAudio.Client.wasm.br"
     },
     {
-      "hash": "sha256-XrmENhTPBA6PEPORD5rFQLkSzwhSLb9IRDWQysKUkDc=",
+      "hash": "sha256-Dznc0FvL2F+BMmyPaJL3m4m9CJBJMIMRAg+ow+DaHgY=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -705,7 +705,7 @@
       "url": "_framework\/TO.Bobine.Messages.Shared.wasm.br"
     },
     {
-      "hash": "sha256-sl4\/0jTXmnOBi2pv97uhEViZkjEXoFTGsELJMLJy5x8=",
+      "hash": "sha256-Xukw5mb\/x2i2pvvvDiDKhU21P+AcR1B3GQENm132Z\/Q=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -749,7 +749,7 @@
       "url": "appsettings - Copia.json"
     },
     {
-      "hash": "sha256-vWtNyUanPW1wqR04wdv+iiJKSSLspdXXFL2WUe0en0I=",
+      "hash": "sha256-fyO\/Wb3FGRSfnEnyKj50DiSmv6QT4VBVPgqiDSMz0\/Q=",
       "url": "appsettings.json"
     },
     {
@@ -893,5 +893,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "8TF03jGb"
+  "version": "+MIUhtSg"
 };
