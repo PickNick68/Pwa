@@ -189,7 +189,7 @@
       "url": "_framework\/Blazor.BearerToken.Client.wasm.br"
     },
     {
-      "hash": "sha256-2bpLPGfE879yhS1ncuuGlOmgOX8NByFecAus2787LtY=",
+      "hash": "sha256-11Rn9J5u8hk9DyFt+MjYua3P84RGWX1\/3Jl7WeNPkQ4=",
       "url": "_framework\/Blazor.Cms.Mobile.Infrastructure.wasm.br"
     },
     {
@@ -213,7 +213,7 @@
       "url": "_framework\/Blazor.Hubconnection.Shared.wasm.br"
     },
     {
-      "hash": "sha256-sna1dBFRDyK0iupzKJfqGFzSbYL0vE8UunjX0YIe3EI=",
+      "hash": "sha256-X5qcrBr4aeJ6bz52mB8XYVnwGpi0ZytEfENdB012VOc=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -249,7 +249,7 @@
       "url": "_framework\/Blazor.PlayAudio.Client.wasm.br"
     },
     {
-      "hash": "sha256-zVZHO\/zLUSvvLO\/BvknmA8ucXBZTV7G5+Vr9RqB5wIA=",
+      "hash": "sha256-GbIfnmwHnNp+97nY8Xrxo9MSgmlqSuc8cLL8PSnxZJ8=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -281,11 +281,11 @@
       "url": "_framework\/Blazor.Upload.Pwa.Shared.wasm.br"
     },
     {
-      "hash": "sha256-c\/RK5wT0jjyCkJaZdzP3TXfwIz\/FM0mHi9cpmnAulng=",
+      "hash": "sha256-SCFxEk+cIuVJcut7GbsXToXGSw6EqJpTud1HVSlFqNo=",
       "url": "_framework\/Blazor.Wizard.Client.wasm.br"
     },
     {
-      "hash": "sha256-lG\/CLOztdNXITfXEAC9Q47ZypIquLVrR2fAie1lmb5U=",
+      "hash": "sha256-cd2b7QHy\/tpO871XGlaS3V4FdWw+jsE7p4Q1Jiyxkm0=",
       "url": "_framework\/Blazor.WizardComponent.Client.wasm.br"
     },
     {
@@ -705,7 +705,7 @@
       "url": "_framework\/TO.Bobine.Messages.Shared.wasm.br"
     },
     {
-      "hash": "sha256-N\/+j328GdwqcPlLeyGerOXOB9B+kP0eYgrJDxGxCSr4=",
+      "hash": "sha256-McC4Zs+LkVeCm6X1R9XKuTapTZWgoTU5i551nL0CicQ=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -789,7 +789,7 @@
       "url": "cartellinoimages\/Storaenso.jpg"
     },
     {
-      "hash": "sha256-WqrKTCK3F2qsJTaIBm4fe6VnN4E0Bkx2Zc+rwy+bda8=",
+      "hash": "sha256-ctOk3++gXT+Q2ib8V1V4GEIE7SyuIxUF2YhGX0iM7bI=",
       "url": "cartellinoimages\/Storaenso_V1.jpg"
     },
     {
@@ -849,7 +849,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-75ySMYtL\/wzbG8LszEkbGXLsWL11uZaLDGY4y3hAisE=",
+      "hash": "sha256-fRlFVHCOK76jrmboy\/N7K7l1xzj6JI+yCVI7vgk1qVk=",
       "url": "info.json"
     },
     {
@@ -897,5 +897,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "VEP4FCcW"
+  "version": "MaVqrYj2"
 };
