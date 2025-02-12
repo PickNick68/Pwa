@@ -189,7 +189,7 @@
       "url": "_framework\/Blazor.BearerToken.Client.wasm.br"
     },
     {
-      "hash": "sha256-qbrdKyK7EAkpN9Y7EINjjCCNuHCk3jqxyJ+4Vlht0kg=",
+      "hash": "sha256-JgbXtn5q5YZzIbmCBryjNHOUwb4iREOx2NC35CDok5g=",
       "url": "_framework\/Blazor.Cms.Mobile.Infrastructure.wasm.br"
     },
     {
@@ -213,7 +213,7 @@
       "url": "_framework\/Blazor.Hubconnection.Shared.wasm.br"
     },
     {
-      "hash": "sha256-dXTx9Uve1JQxYBjxYnKJ2RKuXasfB19QgZrxmgUfs24=",
+      "hash": "sha256-yPVd5ZBWX2RitRVt2DTVKYSq3iXmBhIEDU7gthNOt9w=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -249,7 +249,7 @@
       "url": "_framework\/Blazor.PlayAudio.Client.wasm.br"
     },
     {
-      "hash": "sha256-2teP6BeS6Y\/LZpZycAxWTyuJcnWWLqsgRoJM9huQeYk=",
+      "hash": "sha256-tOzpL46lnGzU0n27jVnrZWgA\/JFOD0u95zzq\/wr5njg=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -285,7 +285,7 @@
       "url": "_framework\/Blazor.Wizard.Client.wasm.br"
     },
     {
-      "hash": "sha256-4jneb5wBlLFW82D88u97GbW0s8AjJzb8HnfmW27Mc2E=",
+      "hash": "sha256-za5TG\/9WN203uRZHjCWn4y+R1yQRnWyr0PJ1awwWgWM=",
       "url": "_framework\/Blazor.WizardComponent.Client.wasm.br"
     },
     {
@@ -705,7 +705,7 @@
       "url": "_framework\/TO.Bobine.Messages.Shared.wasm.br"
     },
     {
-      "hash": "sha256-NmXOVaHpz\/+ay9wFHw\/wWZOanN4iC5eCg97hiccTnJ4=",
+      "hash": "sha256-D3vunag09Hu4tYStHrelon8gZvhFoV4RHx\/\/axOG8qY=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -749,12 +749,24 @@
       "url": "appsettings - Copia.json"
     },
     {
-      "hash": "sha256-+ro1geunpbejo7\/bCB\/5XaO4EVLPklL1ZDyPAlajC6w=",
+      "hash": "sha256-9nK3CVNKUHvpAJfNk\/qDbvBj0ZBUv3XqGE7lr9NXJ1g=",
       "url": "appsettings.json"
     },
     {
-      "hash": "sha256-N+Cy+0SuT3OzIwlbvr8FOYbQk+35ySFu\/f++cCXvoUg=",
-      "url": "cartellinoimages\/CartieraGiorgione.jpg"
+      "hash": "sha256-gzYeEtn1a6jTtMV494QZgPD3GAJZRPg30fPdxG4A0hA=",
+      "url": "cartellinoimages\/BL Billerud Evo.jpg"
+    },
+    {
+      "hash": "sha256-VWhOYFav0EIUL30milTb4Ork6O8RbDOnDR4844+JmP8=",
+      "url": "cartellinoimages\/CA_Cardella_Evo.jpg"
+    },
+    {
+      "hash": "sha256-PD9gfx\/uXJYQLFRVaTxjT8\/LhvoQ4NwWop5ama\/7j9Q=",
+      "url": "cartellinoimages\/CG_Cartiera_Giorgione_Evo.jpg"
+    },
+    {
+      "hash": "sha256-2tWaCDVk+ARui1JZ\/x6R0JZXvMQNtP5Hvxfv7Cesty4=",
+      "url": "cartellinoimages\/DSF_Ds_Smith_Francia_Evo.jpg"
     },
     {
       "hash": "sha256-xJ5R8oxg22mmFs8SBdMalXNY0O4MfcMcR1+zaJKMONk=",
@@ -765,8 +777,8 @@
       "url": "cartellinoimages\/Gep.jpg"
     },
     {
-      "hash": "sha256-Mbb3apah7FN3zD3kq6nnyjZ2M5Cst5pC+E\/0a5u04u8=",
-      "url": "cartellinoimages\/Leipa.jpg"
+      "hash": "sha256-4JXR5ygsJGDMxWcWQs1K6zRm9T\/j2olJ6m2LwGN2Kr0=",
+      "url": "cartellinoimages\/LP_Leipa_Evo.jpg"
     },
     {
       "hash": "sha256-+P5xxN\/ufddEyQmwsXRIh8ndFjU7gvNKw70\/yLEJVFk=",
@@ -777,20 +789,16 @@
       "url": "cartellinoimages\/MondialCarta.jpg"
     },
     {
-      "hash": "sha256-V5MN99fMPeW4HpWAbaDkpJt3gaxvqcOlEWUK0UieT9Q=",
-      "url": "cartellinoimages\/ND.jpg"
+      "hash": "sha256-TMnOsTS69cFDXy1jSWZ9v2O0g5YhIDfgQiCYl6yjPuc=",
+      "url": "cartellinoimages\/ND_NdPaper_Evo.jpg"
     },
     {
-      "hash": "sha256-OoN4StW+rFD\/4y0iLrttNovdjF3Afh9wVw5PDCB6pWE=",
-      "url": "cartellinoimages\/PCA.jpg"
-    },
-    {
-      "hash": "sha256-kwb4x3RNGnYK21yuZZku0MARf5XcEhy6uzWu+N7otF0=",
-      "url": "cartellinoimages\/Storaenso.jpg"
+      "hash": "sha256-y8ZGP+RuV8cvQsE9\/ElAwKZnl+VBoMK7G21XIJmOv9U=",
+      "url": "cartellinoimages\/PCA_Evo.jpg"
     },
     {
       "hash": "sha256-ctOk3++gXT+Q2ib8V1V4GEIE7SyuIxUF2YhGX0iM7bI=",
-      "url": "cartellinoimages\/Storaenso_V1.jpg"
+      "url": "cartellinoimages\/ST_Storaenso_Evo.jpg"
     },
     {
       "hash": "sha256-xsIDSnzoehrRFYAwXbsegKAk1HuqrGy3D9CLJyOcOHk=",
@@ -801,12 +809,12 @@
       "url": "cartellinoimages\/ToscoPaper.jpg"
     },
     {
-      "hash": "sha256-t2iD3KaXB7Y0t3n05lCb63fv6p7WiMdb4eZhks6chPs=",
-      "url": "cartellinoimages\/WestRock.jpg"
+      "hash": "sha256-HfAU51BZ3Rx6xjOxV0AU0q0b1Iw73ZoM6FkdInUm3IA=",
+      "url": "cartellinoimages\/WRA_Westrock_Evo.jpg"
     },
     {
-      "hash": "sha256-8VaYad2BRq6EDShDAodAe+PtWVRvRVz2LBgvxjPVZ8M=",
-      "url": "cartellinoimages\/cardella.jpg"
+      "hash": "sha256-HHPSBq5\/CoQZKOTPc+0nwQWCoAG1wnaUa9PbM2HoQIQ=",
+      "url": "cartellinoimages\/WRC_Westrock_Tuque_Evo.jpg"
     },
     {
       "hash": "sha256-9JPdCYsG5uzDpgMhztEEsX8CKcYejOaEbnBcCt5iGHI=",
@@ -853,7 +861,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-n9CzILgGY0\/MLM70PsHUq1lB0lf+Orr21L15iesK0do=",
+      "hash": "sha256-KJgmhrRHAYnr0qjsVjdrTVDAgrBnnIWVagAVurB3Fpk=",
       "url": "info.json"
     },
     {
@@ -901,5 +909,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "MpjWYbXQ"
+  "version": "H0YRU\/8v"
 };
