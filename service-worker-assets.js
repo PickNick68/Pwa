@@ -189,7 +189,7 @@
       "url": "_framework\/Blazor.BearerToken.Client.wasm.br"
     },
     {
-      "hash": "sha256-JgbXtn5q5YZzIbmCBryjNHOUwb4iREOx2NC35CDok5g=",
+      "hash": "sha256-bIKRhqahSzG1uvgo4VMlXkIdBz5XNorJ+NnOW0t9Bd8=",
       "url": "_framework\/Blazor.Cms.Mobile.Infrastructure.wasm.br"
     },
     {
@@ -213,7 +213,7 @@
       "url": "_framework\/Blazor.Hubconnection.Shared.wasm.br"
     },
     {
-      "hash": "sha256-yPVd5ZBWX2RitRVt2DTVKYSq3iXmBhIEDU7gthNOt9w=",
+      "hash": "sha256-A3v1\/BHsv+s+vamLvuabypgREuNy\/4Ewij+wy9sPrKQ=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -249,7 +249,7 @@
       "url": "_framework\/Blazor.PlayAudio.Client.wasm.br"
     },
     {
-      "hash": "sha256-tOzpL46lnGzU0n27jVnrZWgA\/JFOD0u95zzq\/wr5njg=",
+      "hash": "sha256-r5DUg5wwxERC4Qnb4DbPRVQe9uLuhLXRwx2\/KBpdiBY=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -281,11 +281,11 @@
       "url": "_framework\/Blazor.Upload.Pwa.Shared.wasm.br"
     },
     {
-      "hash": "sha256-v0ESdzpyMNtKQ9DcbuHHNt+mmVHsdMLtKeVA+t3OvwY=",
+      "hash": "sha256-7B2r9FVueG2OlMJc7gdgHaCTTl1HPcMF1gU63VsGw7o=",
       "url": "_framework\/Blazor.Wizard.Client.wasm.br"
     },
     {
-      "hash": "sha256-za5TG\/9WN203uRZHjCWn4y+R1yQRnWyr0PJ1awwWgWM=",
+      "hash": "sha256-peOVDjjj+ykZvvNjmFNkGR4fVcrXSXhz3H7EKnD8JjQ=",
       "url": "_framework\/Blazor.WizardComponent.Client.wasm.br"
     },
     {
@@ -705,7 +705,7 @@
       "url": "_framework\/TO.Bobine.Messages.Shared.wasm.br"
     },
     {
-      "hash": "sha256-D3vunag09Hu4tYStHrelon8gZvhFoV4RHx\/\/axOG8qY=",
+      "hash": "sha256-Z56Bw1j\/Zymn2oSiFQ18bGaOuOgZ759+pMrX5cXNr7U=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -749,7 +749,7 @@
       "url": "appsettings - Copia.json"
     },
     {
-      "hash": "sha256-9nK3CVNKUHvpAJfNk\/qDbvBj0ZBUv3XqGE7lr9NXJ1g=",
+      "hash": "sha256-c9n+7g0xJDTC6y4\/ojeMGLGGjaGaT2X7C10fhIDdYVQ=",
       "url": "appsettings.json"
     },
     {
@@ -861,7 +861,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-KJgmhrRHAYnr0qjsVjdrTVDAgrBnnIWVagAVurB3Fpk=",
+      "hash": "sha256-hhjtkF7KZlxq096nsl7r9kULswfX4zDnJh1H5b8PlVM=",
       "url": "info.json"
     },
     {
@@ -909,5 +909,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "H0YRU\/8v"
+  "version": "cIG3duIP"
 };
