@@ -749,12 +749,12 @@
       "url": "appsettings - Copia.json"
     },
     {
-      "hash": "sha256-4at6ggU8fHtTpgfeELJAd8bsAabAH5iPO0oG6vGoz+M=",
+      "hash": "sha256-jv+e9ciBCRKXAAQfKg0ZX1Ka5cQnVbrnTNyWkBQBoXU=",
       "url": "appsettings.json"
     },
     {
       "hash": "sha256-gzYeEtn1a6jTtMV494QZgPD3GAJZRPg30fPdxG4A0hA=",
-      "url": "cartellinoimages\/BL Billerud Evo.jpg"
+      "url": "cartellinoimages\/BL_Billerud_Evo.jpg"
     },
     {
       "hash": "sha256-VWhOYFav0EIUL30milTb4Ork6O8RbDOnDR4844+JmP8=",
@@ -799,6 +799,10 @@
     {
       "hash": "sha256-y8ZGP+RuV8cvQsE9\/ElAwKZnl+VBoMK7G21XIJmOv9U=",
       "url": "cartellinoimages\/PCA_Evo.jpg"
+    },
+    {
+      "hash": "sha256-\/l+qwQwTp2AMst2rGwYkkj70I\/aLcc3ueb9xLtTvF0s=",
+      "url": "cartellinoimages\/PP_Papel_Prensa_EVO.jpg"
     },
     {
       "hash": "sha256-ctOk3++gXT+Q2ib8V1V4GEIE7SyuIxUF2YhGX0iM7bI=",
@@ -913,5 +917,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "PSE6iDix"
+  "version": "y7jalxjB"
 };
