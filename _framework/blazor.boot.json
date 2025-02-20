@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Blazor.PwaTemplate.Client",
   "resources": {
-    "hash": "sha256-8QDf86+ExdEjw1fExTDhHd5AFtR22rSllwwAtssr/Dg=",
+    "hash": "sha256-Tq+lvVb05EmLXAIgbP9iML6tc/SRZnjC+xn70lLy+Jw=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-BU7Yeu762c2mOd55Lp55pwx84zS4pnZK1x7sHC/pC08="
     },
@@ -31,7 +31,7 @@
       "Blazor.DisplaySpinner.Client.wasm": "sha256-auc1QsFmXd/54cwhdBZdWKpAqYuzH+X3xhrU4Pd088k=",
       "Blazor.EventAggregator.Shared.wasm": "sha256-gDgTuqzUzZojT2RrkbqhEncRwL5xufrw21sGAME7mwE=",
       "Blazor.Hubconnection.Shared.wasm": "sha256-j93mEXkkg5azpasNINATg3Eytjk/xaeJwD3hnMCO0g8=",
-      "Blazor.Infrastructure.Client.wasm": "sha256-FSukOJEeZZUB3BbV2oa6sVJhtHe7rJwQv/iCSWB9JKE=",
+      "Blazor.Infrastructure.Client.wasm": "sha256-yR5DVY37XLTLwZbREEyKQct+mucKeVQTZaUCL1hbwWI=",
       "Blazor.Interop.Client.wasm": "sha256-5jA7OtDkdKfhT4Qe+LjisVgD49QBl4YhsP28BFpBROk=",
       "Blazor.KeyboardInput.Client.wasm": "sha256-pqX/VYQWcy0+8teCN/MFUuhrxpsoEMQ8xPe8u+7v4h8=",
       "Blazor.MediatR.Shared.wasm": "sha256-5y/Gex5doG/u4iLJO4Og56nxNN8S6AfD7tCbhDpYaCg=",
