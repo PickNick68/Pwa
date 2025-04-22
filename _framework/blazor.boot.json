@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Blazor.PwaTemplate.Client",
   "resources": {
-    "hash": "sha256-MkkgHUIdEpvAOyPb0R2jcfBMjRRJE49/HZVZJ6EnCMw=",
+    "hash": "sha256-tamIH79rGS8Zjas1CyrD0riMVS9nPJz15uCUV2DqK18=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-rGfzG6AG0g2Up08qKUtWK1mYGv2VJDwHAYqPFkdT6no="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.js": "sha256-nam8JTYKjhMKOTg6+FlihYP6JpWPGe3jjM9fiUFWzhY="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-XofMsMgMZJFaNmW+9mngmehaL61Dr5rWTBHJ8IqaA18="
+      "dotnet.native.wasm": "sha256-sYdaW4uDrcDv2MTYrS0mYkh+bI2cMB07Jmg/gVtG8DQ="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -34,7 +34,7 @@
       "Blazor.Hubconnection.Shared.wasm": "sha256-j93mEXkkg5azpasNINATg3Eytjk/xaeJwD3hnMCO0g8=",
       "Blazor.IndexedDB.Client.wasm": "sha256-4QY9yTTPki4EG0LEUAzreLRVonLJ0v/wg9vTEjjSWu8=",
       "Blazor.IndexedDB.Shared.wasm": "sha256-zkNMMInFL4PBxYyEru+vO4jtsdu7KEw+RZo+8hm5cZo=",
-      "Blazor.Infrastructure.Client.wasm": "sha256-Pba4fJ/IgZCJStAIKUGwYXp14+RUbGJlXJZzEXSb+nU=",
+      "Blazor.Infrastructure.Client.wasm": "sha256-qVQDvGCbvOI08eYY2s+VKf+0vbtQjyX/D0Ms6a3SXAU=",
       "Blazor.Interop.Client.wasm": "sha256-xhaPAOqbX8s5qGdNtz4Xg6PhgV4D8fhZ2o0fa3e0Xqs=",
       "Blazor.KeyboardInput.Client.wasm": "sha256-Uj2rQhGVNPEKLLtBlK6wtqG750VaUNQi2EE7/T8Cjqs=",
       "Blazor.LocalStorage.Client.wasm": "sha256-cw2d9v8wxayA5zypLHVfoH1EQ0OKnr7R4IsSH4ptJ0s=",
@@ -44,7 +44,7 @@
       "Blazor.NetworkState.Client.wasm": "sha256-JWfPwkQz7CIvADxh+mCHtS90JYfnfXuzK8kpWLCBzzw=",
       "Blazor.OracleUserManager.Shared.wasm": "sha256-RMRf9uf4aC1nWL8IBIpH9M+6jYGns+VQxqLKeETOvwg=",
       "Blazor.PlayAudio.Client.wasm": "sha256-a9TYYeBnMY5evEAsndnMhcPv3/c7eE6TlLbXtGyjzv4=",
-      "Blazor.PwaTemplate.Client.wasm": "sha256-s0VN+ZtLBpE5u7LERBbBy2j1707A76NygjuoZ8YqHn4=",
+      "Blazor.PwaTemplate.Client.wasm": "sha256-GB0x+VvCAsaYz68OH5EnwRn4+RRuGRFj2t0u6USlPow=",
       "Blazor.RabbitMQ.Shared.wasm": "sha256-lBKEdmadySZUZ8DMdYx59axjGz35oRrUQbtfJJpgSxk=",
       "Blazor.Scanner.Client.wasm": "sha256-F03cqSdaQUX6Zao4Dek20WSuOnhHqadWuewzL3EPfzQ=",
       "Blazor.SimpleDialog.Client.wasm": "sha256-knpvoLjOr+uYTm9DH4ECU+r8P1Y8UtGM2MMCRSBzZX8=",
