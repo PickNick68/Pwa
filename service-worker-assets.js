@@ -1005,7 +1005,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-yzBnD5iMERdSG\/uNvPMFqgaAvEe+pDAHkD9wAwqTGVU=",
+      "hash": "sha256-OriQyxHaZ4IWHXySwBa9eG67nBFfdZUWy9leS8YLsNE=",
       "url": "info.json"
     },
     {
@@ -1053,5 +1053,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "3nzGw8s+"
+  "version": "JKrYeVf+"
 };
