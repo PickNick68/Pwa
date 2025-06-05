@@ -221,7 +221,7 @@
       "url": "_framework\/Blazor.Cms.Mobile.Shared.wasm.br"
     },
     {
-      "hash": "sha256-cwkbw40Q9yCITl53XWv5dFxPKP+Cqex9ShaYCATlpnM=",
+      "hash": "sha256-U9+UYlp43IQcfxhcwvYSZy50ubcw1Rony7GZPIfHs+Q=",
       "url": "_framework\/Blazor.Components.Client.wasm.br"
     },
     {
@@ -245,7 +245,7 @@
       "url": "_framework\/Blazor.IndexedDB.Shared.wasm.br"
     },
     {
-      "hash": "sha256-Ga+iwhVIjzk0RAJAaYgQ+QesdcTQXw2njmqxM1iHFv0=",
+      "hash": "sha256-b82fjnaCeza+PtPCGkU\/1Aoehn68lmbxK5jCh7XfRyc=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -285,7 +285,7 @@
       "url": "_framework\/Blazor.PlayAudio.Client.wasm.br"
     },
     {
-      "hash": "sha256-At1kVEO38SS2y8lildLDpa+LCMl3SASVxSTIPQlns4M=",
+      "hash": "sha256-3lSeLbCIPMMND0yiA1NtsZiSIAJ4ZKY9pbJgDlbtjCs=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -529,7 +529,7 @@
       "url": "_framework\/Microsoft.Net.Http.Headers.wasm.br"
     },
     {
-      "hash": "sha256-0n\/DTYu+4rxdrIZKSSkj4winPylTTYgqozHRx3leBiI=",
+      "hash": "sha256-ZD5ohvrWa5AQ00Q39OSyZDOtSVQbAp786Aj4tmgt7Fo=",
       "url": "_framework\/MudBlazor.wasm.br"
     },
     {
@@ -589,7 +589,7 @@
       "url": "_framework\/System.Collections.wasm.br"
     },
     {
-      "hash": "sha256-J97qDgL2pWqUMGqgOpEZHiHOLYGa0Z6h0idjHo5w4Sw=",
+      "hash": "sha256-Oqoe1j8VA0cBOEC45WtQoUiyDzo2X26sd3ZpIXwISPM=",
       "url": "_framework\/System.ComponentModel.Annotations.wasm.br"
     },
     {
@@ -829,7 +829,7 @@
       "url": "_framework\/TO.Bobine.Messages.Shared.wasm.br"
     },
     {
-      "hash": "sha256-KZ9MdZjtGNMm2pirwB8LRH40\/yeWeD+HU6me6mKL6uI=",
+      "hash": "sha256-RR1VXyhlPEsGJKUxvRfMubLxYhFcuKiZTEUYmNpfBnk=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -1005,7 +1005,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-EC4ibYqbxuVj7wXm7x7Xyof2UzLfb7m\/imVOroX7jr4=",
+      "hash": "sha256-fADPzTKD1i0e\/lMdks6LnTS7l7ZqoIrS17HozKKsgfo=",
       "url": "info.json"
     },
     {
@@ -1057,5 +1057,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "a1yVX\/DF"
+  "version": "\/UrRSsZX"
 };
