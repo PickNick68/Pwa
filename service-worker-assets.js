@@ -869,7 +869,7 @@
       "url": "_framework\/netstandard.wasm.br"
     },
     {
-      "hash": "sha256-EfSj9\/Ad6UZPd0DbWMosZ18e8DQOgOVdJUgWH2P276Y=",
+      "hash": "sha256-\/ROWqvs0rqto8i++rC1j4Ys9lWr+1YASYAsyvC8VUpo=",
       "url": "appsettings.json"
     },
     {
@@ -931,6 +931,10 @@
     {
       "hash": "sha256-TMnOsTS69cFDXy1jSWZ9v2O0g5YhIDfgQiCYl6yjPuc=",
       "url": "cartellinoimages\/ND_NdPaper_Evo.jpg"
+    },
+    {
+      "hash": "sha256-vabFs+MnWDWKB9nv2fa94MmYnoNcu2YFUrWhM\/KKjjQ=",
+      "url": "cartellinoimages\/NewIndy.jpg"
     },
     {
       "hash": "sha256-y8ZGP+RuV8cvQsE9\/ElAwKZnl+VBoMK7G21XIJmOv9U=",
@@ -1057,5 +1061,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "UTyF91XS"
+  "version": "GfrYYJWd"
 };
