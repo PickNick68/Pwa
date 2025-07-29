@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Blazor.PwaTemplate.Client",
   "resources": {
-    "hash": "sha256-X31sCoQ5FDNPdFVDO3g3dCsnFwB+jGF38pZcjVzR7JU=",
+    "hash": "sha256-zj6U74gfUoy7Cp6vB3quZWd2GAS0IULwojZvvCq04Qo=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-rGfzG6AG0g2Up08qKUtWK1mYGv2VJDwHAYqPFkdT6no="
     },
@@ -34,7 +34,7 @@
       "Blazor.Hubconnection.Shared.wasm": "sha256-j93mEXkkg5azpasNINATg3Eytjk/xaeJwD3hnMCO0g8=",
       "Blazor.IndexedDB.Client.wasm": "sha256-r9hMbyVX9nm+czUUInImfyFSL2m+nmZEiLHKXlcWw6s=",
       "Blazor.IndexedDB.Shared.wasm": "sha256-zkNMMInFL4PBxYyEru+vO4jtsdu7KEw+RZo+8hm5cZo=",
-      "Blazor.Infrastructure.Client.wasm": "sha256-K+Z3HbbHD99fETwiooy3TmM1iQmfhx7fRwg192uRV7I=",
+      "Blazor.Infrastructure.Client.wasm": "sha256-SQKvaQ+FVXIjwZ7YSbtJ0Ap4uCn4uZiSvuFK/otVu9A=",
       "Blazor.Interop.Client.wasm": "sha256-ci6YXxbV8pkZOLhCcIYm5PiiovGQlxAjuibOlefablI=",
       "Blazor.KeyboardInput.Client.wasm": "sha256-q3SwokNu7oISTkRt98qt9a7sVOo+cU0V1GCfBF+DC04=",
       "Blazor.LocalStorage.Client.wasm": "sha256-GAMO7dI/KVYpxfSdRXda9aaBO+INU7YpNU9L8Ul9iwA=",
@@ -44,7 +44,7 @@
       "Blazor.NetworkState.Client.wasm": "sha256-czk9e5rUDwKHbinQDp3HsWijFutir/H4tH/R1NwrVug=",
       "Blazor.OracleUserManager.Shared.wasm": "sha256-RMRf9uf4aC1nWL8IBIpH9M+6jYGns+VQxqLKeETOvwg=",
       "Blazor.PlayAudio.Client.wasm": "sha256-QJHpuW/wkctX0flvY1J2PY/tlyuH/ORetZGlvT3vKB0=",
-      "Blazor.PwaTemplate.Client.wasm": "sha256-7STIHNsiMhwy3qK6Y2MJn4JOA2lKLgahXCG/8tGpovU=",
+      "Blazor.PwaTemplate.Client.wasm": "sha256-EoJy+5vLUDa1r9pbP6kG8Kj17a/jB9szhKXYkebf8dg=",
       "Blazor.RabbitMQ.Shared.wasm": "sha256-lBKEdmadySZUZ8DMdYx59axjGz35oRrUQbtfJJpgSxk=",
       "Blazor.Scanner.Client.wasm": "sha256-a5twDUYNndMQr9pGm75lN50vOcl6WNR+C9PPWRtnANc=",
       "Blazor.SimpleDialog.Client.wasm": "sha256-o5JK8S5xAd8OVtXt1tUWW+qTcUWqdlxIZHxtlXj83kY=",
@@ -180,7 +180,7 @@
       "System.Xml.Linq.wasm": "sha256-ng7fAZ4zpacIHjSVvD/sql+V2/dPm/j1xyjCwAtIYOQ=",
       "System.Xml.ReaderWriter.wasm": "sha256-hS5ztDHmA/GjJTijQR+/WwPmpWbvk/c1yScd7Norkpw=",
       "System.Xml.XDocument.wasm": "sha256-sYZ5e1MCj4Me7575PI+con6HN1DPiGeyx9n31YIzbUA=",
-      "TO.Bobine.Messages.Shared.wasm": "sha256-Z+zY4AbH0ZkVebYq5H2fd9MKpANQpkneJZcXkm1dO8E="
+      "TO.Bobine.Messages.Shared.wasm": "sha256-ecG9euFU8ps0XJIUvUhXq21uU3Wn7t4hQQxtsVtXeSc="
     }
   },
   "cacheBootResources": true,
