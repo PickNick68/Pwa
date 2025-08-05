@@ -188,7 +188,7 @@
   "linkerEnabled": true,
   "appsettings": [
     "../appsettings.json",
-    "../appsettings_20250520.json"
+    "../appsettings_05082025.json"
   ],
   "globalizationMode": "sharded",
   "extensions": {

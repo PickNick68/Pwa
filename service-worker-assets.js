@@ -829,7 +829,7 @@
       "url": "_framework\/TO.Bobine.Messages.Shared.wasm.br"
     },
     {
-      "hash": "sha256-Sc6ZCOPRrsGDw\/PhchVjNMsnykW\/Bxi4y5gv4iJbH3w=",
+      "hash": "sha256-83A9IfDhW8oG9Xwy3kJWcqmo9Z6\/NLEShKOAk++BRCY=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -869,12 +869,12 @@
       "url": "_framework\/netstandard.wasm.br"
     },
     {
-      "hash": "sha256-Ltgx6wNLPcVlMhFzOGfHwfgQhYWpLDaLce3bkbf96Ak=",
+      "hash": "sha256-B6av5uQyI8JblBqAFaBjRqXI5rI7mBFwj0v3S55ju18=",
       "url": "appsettings.json"
     },
     {
-      "hash": "sha256-YnYdzjIvhPtfDZxsUYV\/LRg7qisDW2YhC35vLTeS+04=",
-      "url": "appsettings_20250520.json"
+      "hash": "sha256-Ltgx6wNLPcVlMhFzOGfHwfgQhYWpLDaLce3bkbf96Ak=",
+      "url": "appsettings_05082025.json"
     },
     {
       "hash": "sha256-gzYeEtn1a6jTtMV494QZgPD3GAJZRPg30fPdxG4A0hA=",
@@ -1013,7 +1013,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-33\/cNgkjZM6XQj6n\/EkUBRjVT0pUNB3gfEUdrSmFnDE=",
+      "hash": "sha256-DGvRpRfwTBdpF\/qbNQ8WGnwqQkDtCZHIK8pmuc7JVNQ=",
       "url": "info.json"
     },
     {
@@ -1065,5 +1065,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "PgAzjM5Y"
+  "version": "AA8K9OcF"
 };
