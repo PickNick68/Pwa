@@ -245,7 +245,7 @@
       "url": "_framework\/Blazor.IndexedDB.Shared.wasm.br"
     },
     {
-      "hash": "sha256-zvCRxrH1iQbDccx4eizoM3hUWKYrG+IBT0QOuPXXfDg=",
+      "hash": "sha256-DU+Xu1BTJu6Xn1nlixw\/VsruccWvhOSF7lzUh+4eeN4=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -285,7 +285,7 @@
       "url": "_framework\/Blazor.PlayAudio.Client.wasm.br"
     },
     {
-      "hash": "sha256-S7mu+tf1NCgybZaxE+jywU80f1Cnt8GrvsHuvJAcYu4=",
+      "hash": "sha256-it\/4jWJmgt7wzc\/cNVtzwWdD\/eisEHGPRqU+u8sQLps=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -829,7 +829,7 @@
       "url": "_framework\/TO.Bobine.Messages.Shared.wasm.br"
     },
     {
-      "hash": "sha256-Sv9bJPpMGu2m\/lFuwJ2L48aBhbxPbDiqM\/gm3qtk4Mo=",
+      "hash": "sha256-X3SoC8QDNo1RnL5zFl9mAozaUXorTBazZHgDJEXZ02g=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -1013,7 +1013,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-Y8Ys\/3wTfHguul+7vqFndeDMUIEpfr5yeH106D222Wg=",
+      "hash": "sha256-PbU2SXeqHh6smZXyyqn+L9zp7j\/i\/gEm7ql1l6v082k=",
       "url": "info.json"
     },
     {
@@ -1065,5 +1065,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "0tCUkSS6"
+  "version": "N3Rd\/tNm"
 };
