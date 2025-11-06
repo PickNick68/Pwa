@@ -205,7 +205,7 @@
       "url": "_framework\/Blazor.Account.Sqs.Client.wasm.br"
     },
     {
-      "hash": "sha256-AfwJUIiMH0CVZLv0Za2xEnnzy7bNCk5qb4lB7PGAJU8=",
+      "hash": "sha256-J2ZPHR7YqHKuFSuWx1FBgl6hKcfyLY\/ylveDoaMH\/Uc=",
       "url": "_framework\/Blazor.Account.Sqs.Shared.wasm.br"
     },
     {
@@ -845,7 +845,7 @@
       "url": "_framework\/TO.Bobine.Messages.Shared.wasm.br"
     },
     {
-      "hash": "sha256-XLsym27GIkuRbA4ZNhJeqRqjRlFePzjBlua59U3nino=",
+      "hash": "sha256-Jk1PZGlHt0vGTVd7AKq+0Z3ajJ4Sn2HG1BJBp\/NzRvA=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -885,12 +885,16 @@
       "url": "_framework\/netstandard.wasm.br"
     },
     {
-      "hash": "sha256-b3kxe8NWJz5SUHEfICGsrzgl+4m55NOmfxtLtefD8ks=",
+      "hash": "sha256-p3REsATb8pKkU2Ql9JlaPTSmmzqp1dhOxt49H+YE9yU=",
       "url": "appsettings.json"
     },
     {
       "hash": "sha256-Ltgx6wNLPcVlMhFzOGfHwfgQhYWpLDaLce3bkbf96Ak=",
       "url": "appsettings_05082025.json"
+    },
+    {
+      "hash": "sha256-b3kxe8NWJz5SUHEfICGsrzgl+4m55NOmfxtLtefD8ks=",
+      "url": "appsettings_06112025.json"
     },
     {
       "hash": "sha256-gzYeEtn1a6jTtMV494QZgPD3GAJZRPg30fPdxG4A0hA=",
@@ -975,6 +979,10 @@
     {
       "hash": "sha256-dBl4Lnii\/uYCuNLu+14VUnRV\/b3TK6nemlLiN5bk+3w=",
       "url": "cartellinoimages\/ToscoPaper.jpg"
+    },
+    {
+      "hash": "sha256-\/7ouNQNfZsJf26E4lcWPY\/746LMstSRHqk98\/gHp8a4=",
+      "url": "cartellinoimages\/VillaLagarina.jpg"
     },
     {
       "hash": "sha256-HfAU51BZ3Rx6xjOxV0AU0q0b1Iw73ZoM6FkdInUm3IA=",
@@ -1081,5 +1089,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "49n6MLqF"
+  "version": "wFoQ\/Tbp"
 };

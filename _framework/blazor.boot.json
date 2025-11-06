@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Blazor.PwaTemplate.Client",
   "resources": {
-    "hash": "sha256-SZQjL5mW8Qj2ljrfzODYNqgo1dUXhCe3eO4zopqoKE4=",
+    "hash": "sha256-cSv3cWz66LD/fwkfk6w1PyTRsbUN2RPfmzjscX5UoFs=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ub9N1RZi+ksZNKqjciwgH/kwTVM2D7hHkivcbZl3LkQ="
     },
@@ -21,7 +21,7 @@
       "AvnRepository.wasm": "sha256-mJxVDn8h1CTjxM7/KRCTNmCrrMm91F/4g/kbyDLaX28=",
       "Aws.Sqs2.Shared.wasm": "sha256-Xe4IENCqL7pIJhPjPkNSb+zxwfsgCMJ5FSzh69Cbyns=",
       "Blazor.Account.Sqs.Client.wasm": "sha256-nFsCe5FwMgMjxhrHINSriioTi2WhZrRj3MuZNKOQM80=",
-      "Blazor.Account.Sqs.Shared.wasm": "sha256-W8PB2EUDnCXgVSF1tchwvrCscR+8NRzrdqSQWhtggR4=",
+      "Blazor.Account.Sqs.Shared.wasm": "sha256-DKw2WjQpgRt+L9arBSOWuMUlXcBS0N35qJ8Hbphjndw=",
       "Blazor.Attributes.Shared.wasm": "sha256-FjZj3g68RV8THb0fLvTl42FytMqgtyU85I4jnD9lLm0=",
       "Blazor.AutomaticLogout.Client.wasm": "sha256-tbMQxCXpBnwg4CcsrZvYLHJfqLbU7wUDHfxqGY1yNuc=",
       "Blazor.Barcode.Scanner.Zxing.wasm": "sha256-aCqp6xhXuB88Z+hFxglI9vfYPCkgqpwQ/YbhE0kCfow=",
@@ -189,7 +189,8 @@
   "linkerEnabled": true,
   "appsettings": [
     "../appsettings.json",
-    "../appsettings_05082025.json"
+    "../appsettings_05082025.json",
+    "../appsettings_06112025.json"
   ],
   "globalizationMode": "sharded",
   "extensions": {
