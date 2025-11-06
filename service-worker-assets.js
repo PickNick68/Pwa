@@ -885,7 +885,7 @@
       "url": "_framework\/netstandard.wasm.br"
     },
     {
-      "hash": "sha256-p3REsATb8pKkU2Ql9JlaPTSmmzqp1dhOxt49H+YE9yU=",
+      "hash": "sha256-FoeJSclpeVoKfjp164CXhbVNHwrYlOWq\/7kSCio9ZRM=",
       "url": "appsettings.json"
     },
     {
@@ -981,8 +981,8 @@
       "url": "cartellinoimages\/ToscoPaper.jpg"
     },
     {
-      "hash": "sha256-\/7ouNQNfZsJf26E4lcWPY\/746LMstSRHqk98\/gHp8a4=",
-      "url": "cartellinoimages\/VillaLagarina.jpg"
+      "hash": "sha256-hXrgA\/qeczsRV6r23BVkUizL+j5cde0aI4pfVigYdVs=",
+      "url": "cartellinoimages\/VillaLagarinaEvo.jpg"
     },
     {
       "hash": "sha256-HfAU51BZ3Rx6xjOxV0AU0q0b1Iw73ZoM6FkdInUm3IA=",
@@ -1089,5 +1089,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "wFoQ\/Tbp"
+  "version": "k88dBkdy"
 };
