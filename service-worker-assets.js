@@ -233,7 +233,7 @@
       "url": "_framework\/Blazor.BearerToken.Client.wasm.br"
     },
     {
-      "hash": "sha256-\/MV\/1JkjEOGbhCco2WdPZsi5qo5SChMQ1F7qW+Y7\/sY=",
+      "hash": "sha256-10Xj\/WSDTc28TsGy3Efbx0UcO1KJ7wuCTtgzDcGlM6c=",
       "url": "_framework\/Blazor.Cms.Mobile.Infrastructure.wasm.br"
     },
     {
@@ -265,7 +265,7 @@
       "url": "_framework\/Blazor.IndexedDB.Shared.wasm.br"
     },
     {
-      "hash": "sha256-GIwIkaqWeBAkpgooPSdL5uqEdzwzzydmGl5fiVGYtdQ=",
+      "hash": "sha256-RSvQ9qMvp\/KUBRG0vukw5MJOVDLvr6Aw0epmwdd2yvc=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -297,7 +297,7 @@
       "url": "_framework\/Blazor.NetworkState.Client.wasm.br"
     },
     {
-      "hash": "sha256-xNBnz8M1bfdhE0\/YZLiTTQVthft7MTQz1lA8cK+rk5I=",
+      "hash": "sha256-XsUKEDCt9sS1gYlL\/NdcdxVkT20Q55Erd9j\/SkJPwFo=",
       "url": "_framework\/Blazor.OracleUserManager.Shared.wasm.br"
     },
     {
@@ -305,7 +305,7 @@
       "url": "_framework\/Blazor.PlayAudio.Client.wasm.br"
     },
     {
-      "hash": "sha256-BaB5nn\/waV990k\/czCHBcx7OTFmD8Vq3KE9E9BXTeLs=",
+      "hash": "sha256-WYBT3M\/KCBqwpiF8u3LInsiVU8fTJj+fHSrPwx6SSyg=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -345,7 +345,7 @@
       "url": "_framework\/Blazor.Wizard.Client.wasm.br"
     },
     {
-      "hash": "sha256-mgE8Mz5jVNEmGO3MmySvh6x1A7hlLjzv9Nz8dQvlEO8=",
+      "hash": "sha256-dAPSiat+yOpr13TjLPOqg0rqDgHDtJlsqF5rxI16w3A=",
       "url": "_framework\/Blazor.WizardComponent.Client.wasm.br"
     },
     {
@@ -861,7 +861,7 @@
       "url": "_framework\/TO.Bobine.Messages.Shared.wasm.br"
     },
     {
-      "hash": "sha256-B7B\/4+uqFRIonmzTAQo5t5L4oJPna6puPoU4H5bceHk=",
+      "hash": "sha256-F81nnWaUZ04aQ7QWHGeKS0s5Av8qGtb4p7r3xyEondw=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -1057,7 +1057,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-XKOqo2vYBAHNaaEmPDR1FOtVxIgzR2vaM94ZnrubI+w=",
+      "hash": "sha256-3ha4myjhnK3Tddt9xDXazQQonjSHWXdBIFvNA29+oWc=",
       "url": "info.json"
     },
     {
@@ -1109,5 +1109,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "gHiDJr5t"
+  "version": "QGjUoCNJ"
 };
