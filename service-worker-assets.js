@@ -229,7 +229,7 @@
       "url": "_framework\/Blazor.Barcode.Scanner.Zxing.wasm.br"
     },
     {
-      "hash": "sha256-A3Ba0Kwc6t2Iti7Xng3fyHCpndbHblsEXUUX+RAQru0=",
+      "hash": "sha256-gqr\/AR+aS3LBaW9a9EtP7GM1AF0a5VPbYi1PPcTzg7c=",
       "url": "_framework\/Blazor.BarcodeReader.Android.Client.wasm.br"
     },
     {
@@ -269,7 +269,7 @@
       "url": "_framework\/Blazor.IndexedDB.Shared.wasm.br"
     },
     {
-      "hash": "sha256-h72xHMsPCbJses0s+UBesbs1e7eGAvvgAedWXa9P5RU=",
+      "hash": "sha256-jyFPGoIFVLYgnqQyXrBjPfn8ITK27gWPYLPmnT5kdgc=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -309,7 +309,7 @@
       "url": "_framework\/Blazor.PlayAudio.Client.wasm.br"
     },
     {
-      "hash": "sha256-BfRqCu4qDn3UEzLvY25tKeNqzW2NA52pIQvux4Dmyvo=",
+      "hash": "sha256-af0tpLOw0ZFlnn1I5lYQiJGxgxYIZGEI4tBAgWrin0Y=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -349,7 +349,7 @@
       "url": "_framework\/Blazor.Upload.Pwa.Shared.wasm.br"
     },
     {
-      "hash": "sha256-KvZNHYc\/NEqv1r46xV9VAkmPycUbGvjPIOYV2D+XOmg=",
+      "hash": "sha256-ljIIRgg6\/LQaLeTlAJvoMYwxfG2FOkOsM9j+TBvLdz8=",
       "url": "_framework\/Blazor.Wizard.Client.wasm.br"
     },
     {
@@ -869,7 +869,7 @@
       "url": "_framework\/TO.Bobine.Messages.Shared.wasm.br"
     },
     {
-      "hash": "sha256-fglCIIndBd7rH0ezmEbk3oqUZ6\/tlz2A7\/WVwEZZ\/vU=",
+      "hash": "sha256-nP\/sWT5spgxE3\/9XfnIZ2J7HTc2tcTb5QORGiDHCp6k=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -1065,7 +1065,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-WE8uYNr3fAhLkrDND8FPgiAPqfvtRBPMSdMgyRgvZLQ=",
+      "hash": "sha256-41rPQ+Dnqew89Sc2in+EzvNdbXqLY1YGoG6k+CTb+jI=",
       "url": "info.json"
     },
     {
@@ -1117,5 +1117,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "2uhrrsuU"
+  "version": "HevTjeUz"
 };
