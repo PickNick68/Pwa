@@ -1033,7 +1033,7 @@
       "url": "cartellinoimages\/suzano.jpg"
     },
     {
-      "hash": "sha256-VMidkfd7AiDTc+WT3Dm2o1waMRvJsA7y1Af7\/CfUWUM=",
+      "hash": "sha256-EatmASY5bpPrev1CyZ8MHpY89vdo7aBN042djL312sk=",
       "url": "css\/app.css"
     },
     {
@@ -1117,5 +1117,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "TPPhB9qz"
+  "version": "jB5DvWz0"
 };
