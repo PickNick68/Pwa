@@ -3,10 +3,7 @@
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
    
-    /*height: 100%;
-    margin: 0;
-    overscroll-behavior-y: contain;*/ /* 'contain' blocca il refresh ma mantiene il rimbalzo visivo */
-    /*touch-action: pan-x;*/ /* Permette solo swipe orizzontali se necessario */
+   
 }
 
 /* Se vuoi un blocco totale (niente refresh e niente rimbalzo) */
