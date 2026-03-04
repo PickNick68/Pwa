@@ -1,6 +1,21 @@
+
+
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    /* Impedisce il ricaricamento della pagina su Android */
+    /* ma permette lo scorrimento naturale dei contenuti */
+
+    height: 100%;
+    margin: 0;
+    overscroll-behavior-y: none; /* 'contain' blocca il refresh ma mantiene il rimbalzo visivo */
+    touch-action: pan-x; /* Permette solo swipe orizzontali se necessario */
 }
+
+/* Se vuoi un blocco totale (niente refresh e niente rimbalzo) */
+.no-refresh {
+    overscroll-behavior-y: none;
+}
+
 
 h1:focus {
     outline: none;
@@ -101,3 +116,4 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+
