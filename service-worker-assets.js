@@ -913,7 +913,7 @@
       "url": "_framework\/netstandard.wasm.br"
     },
     {
-      "hash": "sha256-mGpJ6F1yLUHxH8YxTMyAXrnVO\/Jf3S9sZnqVJePVgxA=",
+      "hash": "sha256-3TqQ6MK5a7s\/62CuKXczyCaYaw\/TA\/TgBNeMURtFedY=",
       "url": "appsettings.json"
     },
     {
@@ -1073,7 +1073,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-3Rz12U+ADkPKp+LOjqNpM9NMf7fh51fMKwh9GL2kVhY=",
+      "hash": "sha256-p\/EuQybyd+WidW5V1zWdQP28aBNUFOtiRmZ7LFjJOWA=",
       "url": "info.json"
     },
     {
@@ -1125,5 +1125,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "yQTfrSRg"
+  "version": "xRZw9uvB"
 };
