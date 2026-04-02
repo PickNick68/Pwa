@@ -237,7 +237,7 @@
       "url": "_framework\/Blazor.BearerToken.Client.wasm.br"
     },
     {
-      "hash": "sha256-hLC22DHB1D5V\/qv2xhYsIUjFXN1j3jeWajt\/iRI1yjI=",
+      "hash": "sha256-BDisecQMITDXO0Bn6FwJ6pmpOoMGFxKcx88N9f8EJbc=",
       "url": "_framework\/Blazor.Cms.Mobile.Infrastructure.wasm.br"
     },
     {
@@ -269,7 +269,7 @@
       "url": "_framework\/Blazor.IndexedDB.Shared.wasm.br"
     },
     {
-      "hash": "sha256-NQYA8g5Hq2i83kjSkuQRks56BSRc6urcV5unHQG8UrI=",
+      "hash": "sha256-nfHE6UB+fbfMMDFQw0+zT1Rsi9\/UPFOLT+pcAPyhblo=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -305,11 +305,11 @@
       "url": "_framework\/Blazor.OracleUserManager.Shared.wasm.br"
     },
     {
-      "hash": "sha256-2nNNORqRCLHfSpwSLvx5f9BRoVdTXl+dD63\/zdy1DQA=",
+      "hash": "sha256-g2IyBtn+gVc+hXO0YrYu\/3gS2vFDCnwVoj2rTftYh+g=",
       "url": "_framework\/Blazor.PlayAudio.Client.wasm.br"
     },
     {
-      "hash": "sha256-7o1TNIbDX+37eviSm7ehazWojDTrN8V6pRCtPdPFUUU=",
+      "hash": "sha256-y1t6swZ7fx+gY3rET2FZ1iR\/+O6jVLd5dr\/3KS+aqnA=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -353,7 +353,7 @@
       "url": "_framework\/Blazor.Wizard.Client.wasm.br"
     },
     {
-      "hash": "sha256-J6yw7bSTZ82fG3OsrWUvB1W5Kt5YASvhKlfAhLE\/v0A=",
+      "hash": "sha256-Vv3sKtopFYtukAcmFniVPk0TkxBZ5eYqWO5pbQmwZf0=",
       "url": "_framework\/Blazor.WizardComponent.Client.wasm.br"
     },
     {
@@ -877,7 +877,7 @@
       "url": "_framework\/TO.Bobine.Messages.Shared.wasm.br"
     },
     {
-      "hash": "sha256-phXaVqFBfAe1wdJbfvh7Nr6Z3sH5DUJZvHOyuGKRleA=",
+      "hash": "sha256-V00bwQ6HSLRR0BfN\/hPnPqqVsdJzHrnoZEyu4Kcp9Pg=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -1077,7 +1077,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-AdBWFONVYgb4oA6oRbLh\/k1KjK6ZWfAkAgDBF9udLqA=",
+      "hash": "sha256-BjjIwagdvteskSGuigdcx7NHa5LDzPPYu5BKCSnueuQ=",
       "url": "info.json"
     },
     {
@@ -1117,6 +1117,10 @@
       "url": "sounds\/ok.mp3"
     },
     {
+      "hash": "sha256-OnQg0ZZzli2Fe4XacTpkj58kGvIw5uBu1bZebZBc8ds=",
+      "url": "sounds\/prelievo.mp3"
+    },
+    {
       "hash": "sha256-ojjIRUfDibuWTisGt5WW6QCkcJakm3I2Txx8Ii5qPdQ=",
       "url": "sw-registrator1.js"
     },
@@ -1129,5 +1133,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "kL2qBfj4"
+  "version": "qgK\/4i8y"
 };
