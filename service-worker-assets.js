@@ -253,7 +253,7 @@
       "url": "_framework\/Blazor.Cms.Mobile.Shared.wasm.br"
     },
     {
-      "hash": "sha256-HOzre+lSpOYYF0EnXe3kbyhQK1Ug60vipR72hlwVbD4=",
+      "hash": "sha256-0MIqFllKyQnMV\/AxkVmpk4GxGTRbHakuwxocVPJSgyw=",
       "url": "_framework\/Blazor.Components.Client.wasm.br"
     },
     {
@@ -277,7 +277,7 @@
       "url": "_framework\/Blazor.IndexedDB.Shared.wasm.br"
     },
     {
-      "hash": "sha256-4yaH5tAgmn14td1zspkNlFNUqKIrz96JdcF2UOIaprg=",
+      "hash": "sha256-NwQcb1yd0ci5\/XfPdRViEFaJ6lKm07zUvlEW2aSJqhk=",
       "url": "_framework\/Blazor.Infrastructure.Client.wasm.br"
     },
     {
@@ -317,7 +317,7 @@
       "url": "_framework\/Blazor.PlayAudio.Client.wasm.br"
     },
     {
-      "hash": "sha256-AokuuVvuSdDs7vFDODNv5CK\/t2uJBQpt2RxPICNVUvc=",
+      "hash": "sha256-l6qdv\/k0QazEt4tcqNo7hoR6\/YZwMEf8Pr0YSYIXOC4=",
       "url": "_framework\/Blazor.PwaTemplate.Client.wasm.br"
     },
     {
@@ -361,7 +361,7 @@
       "url": "_framework\/Blazor.Wizard.Client.wasm.br"
     },
     {
-      "hash": "sha256-EvGlH6ew968jZzhWuRVDQ6f2ChkYUMoUVr0KWb89kKw=",
+      "hash": "sha256-PdFn8cmEyp7ZkODeh8qVEO3PxWZJV7HZOChx1FyERq8=",
       "url": "_framework\/Blazor.WizardComponent.Client.wasm.br"
     },
     {
@@ -569,7 +569,7 @@
       "url": "_framework\/Microsoft.Net.Http.Headers.wasm.br"
     },
     {
-      "hash": "sha256-iCk0y7zq4GuDJMauEXhThs3G5zgJLPB5ModUbhLdilQ=",
+      "hash": "sha256-5w2mQuL\/dT8PxGEmrJwkckBnL0HQVvpmsI8IoemlQR8=",
       "url": "_framework\/MudBlazor.wasm.br"
     },
     {
@@ -881,7 +881,7 @@
       "url": "_framework\/TO.Bobine.Messages.Shared.wasm.br"
     },
     {
-      "hash": "sha256-3tdDQ7zXxnsVZ2Kezxrbek4oB5+0Z41iaKack7idqZ4=",
+      "hash": "sha256-8xyIhWGgPbcHLhi0qnVB1uW83JdMzUqmu+tybZXtoso=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -921,7 +921,7 @@
       "url": "_framework\/netstandard.wasm.br"
     },
     {
-      "hash": "sha256-gqR8Z1WD95EgsQ5Xra9TUqBgKmA+q6RdqZ4yM63HN94=",
+      "hash": "sha256-JvppEpMJXKPaUO2eV\/Nrbkb+8wKqlMLBqkbPVEk9GJU=",
       "url": "appsettings.json"
     },
     {
@@ -935,6 +935,10 @@
     {
       "hash": "sha256-jUNqkTNs0NGEC5A7+YgB0dQhcAOTf3P60I2aLQLXWVY=",
       "url": "appsettings_23012026.json"
+    },
+    {
+      "hash": "sha256-anUyAeYOaQyOgyMe4VhfAcMOctn96307MyPl\/blX0RU=",
+      "url": "cartellinoimages\/BLE_Billerud_Europe_evo.jpg"
     },
     {
       "hash": "sha256-gzYeEtn1a6jTtMV494QZgPD3GAJZRPg30fPdxG4A0hA=",
@@ -1085,7 +1089,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-h9CYgffCKWV5O+G1HEC8nAn\/iljQRFgizpiURqqErJI=",
+      "hash": "sha256-eqb5GWCW4kK0iSllRsY0ocNbn0ceGbqFi8PidiaImmg=",
       "url": "info.json"
     },
     {
@@ -1141,5 +1145,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "mQytlkSG"
+  "version": "NdQAbVGD"
 };
